@@ -16,6 +16,12 @@ header{
 	padding-top: -50px;
 }
 
+#socmed{
+	width: 60%;
+	text-align: center;
+}
+
+
 .cent{
 	text-align: center;
 	width: 100%;
@@ -86,7 +92,7 @@ header{
 #port{
 	background: #a9a9a9;
 }
-.portf{
+#portf{
 	font-weight: 200;
     font-family: 'Poiret One', cursive;
 	text-align: center;
@@ -96,6 +102,9 @@ header{
 	margin: 0;
 	width: 100%;
 	padding-top: 50px
+}
+
+#mems{
 }
 
 h3{
